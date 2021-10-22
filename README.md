@@ -1,2 +1,2 @@
 # DLI-PDE
-temporary un-public
+temporary not available for public
